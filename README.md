@@ -2,17 +2,17 @@
 Simple C tcp server/client that executes a remote ps command.
 
 
-#Build
+# Build
 ##### Build Server: `gcc server.c -o server`
 
 ##### Build Client: `gcc client.c -o client`
 
-#Run
+# Run
 ##### Run Server: `./server`
 
 ##### Run Client `./client`
 
-#Client Usage
+# Client Usage
 
 ##### `SERVER_IP_ADDRESS [user | cpu | mem]`
 
