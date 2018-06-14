@@ -19,6 +19,7 @@ Simple C tcp server/client that executes a remote ps command.
 Must include the server IP address to connect to. No specified option will result in user option by default.
 
 ### Options
+User by default
 
 ##### User
 
